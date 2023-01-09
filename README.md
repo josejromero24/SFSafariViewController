@@ -5,8 +5,4 @@ This repository shows how to open a URL in Safari using SFSafariViewController i
 
 
 
-
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-01-09 at 10 02 08](https://user-images.githubusercontent.com/39737203/211273219-759a5fdd-bd2c-4e02-8b3c-dcf5cf92eabd.png)
-
-
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-01-09 at 10 02 13](https://user-images.githubusercontent.com/39737203/211273248-d750c3d7-3e8c-4509-aef1-6e42cce9a049.png)
+![Proyecto nuevo](https://user-images.githubusercontent.com/39737203/211273701-7c9f1801-ffc9-4473-8057-0cd548567e3d.png)
